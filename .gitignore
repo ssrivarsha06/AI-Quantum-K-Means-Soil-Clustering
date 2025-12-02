@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.zip
+*.png
+*.csv
+desktop.ini
+.DS_Store
